@@ -13,7 +13,6 @@ public class Main {
 
 
         // Print the results
- 
         System.out.println("testString1.isEmpty() : " + stringEmpty1 + " There for results of isEmpty() is: " + testString1.isEmpty());
 
         System.out.println("testString2.isEmpty() : " + stringEmpty2 + " There for results of isEmpty() is: " + testString2.isEmpty());
